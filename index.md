@@ -17,4 +17,4 @@ Everything else about them.
 
 ## In progress
 
-* [HID: Hostile Interface Device - "Keyboard"](hid.html) - The world's worst keyboard.
+* [HID: Hostile Interface Device](hid.html) - The world's worst keyboard.
