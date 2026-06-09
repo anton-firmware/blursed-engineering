@@ -15,4 +15,6 @@ Everything else about them.
 
 # Current projects
 
-* TODO: Fill out
+## In progress
+
+* [HID: Hostile Interface Device](hid.html) - The world's worst keyboard.
