@@ -11,6 +11,8 @@
 }
 
 // Hides the "View project on GitHub" button in the header
-#header .button {
+header a.button, #header a.button, .btn {
     display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
 }
