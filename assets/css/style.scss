@@ -9,3 +9,8 @@
 #main-content {
     width: 100% !important;
 }
+
+// Hides the "View project on GitHub" button in the header
+#header .button {
+    display: none !important;
+}
