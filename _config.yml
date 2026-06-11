@@ -1,3 +1,4 @@
 theme: jekyll-theme-architect
 title: Blursed Engineering
 description: Solving problems that didn't need to be solved.
+show_downloads: false
