@@ -1,0 +1,11 @@
+---
+---
+@import "{{ site.theme }}";
+
+#sidebar {
+    display: none !important;
+}
+
+#main-content {
+    width: 100% !important;
+}
